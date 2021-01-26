@@ -1,1 +1,2 @@
 # ticket_calculator
+Simple program that you can select your ocupation (estudante or professor) and based on this info the ticket price will be half entry. Other function that the program shows is the full price ticket based on your age, and for the final, he calculates the final price based on the ocupation and age.
